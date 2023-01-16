@@ -6,6 +6,8 @@ Aplicación para probar los distintos tipos de navegación de React Navigation
 
 ## Capturas de Pantalla
 
+<img src="https://user-images.githubusercontent.com/89869980/212592214-ed6226c9-0106-4b98-a8ce-9ca3ce77ebad.png" width="200"/>
+
 <img src="https://user-images.githubusercontent.com/89869980/212590759-fc9623e7-f8b5-4a08-8d38-4c1104d70fca.jpg" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/89869980/212590788-9940e013-44eb-48aa-8c29-aef786409dbd.jpg" width="200"/>
