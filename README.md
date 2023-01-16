@@ -34,7 +34,7 @@ Tener [Node.js](https://nodejs.org/es/download/) instalado.
 npm install
 ```
 
-### Configurar el entorno de ejecucion
+### Configurar el entorno de ejecución
 
 Se puede seguir las instrucciones dependiendo de su SO usando la [guía oficial](https://reactnative.dev/docs/environment-setup).
 
