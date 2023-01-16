@@ -1,4 +1,4 @@
-# NavegacionApp - React Native 04
+# NavegaciónApp - React Native 04
 
 ## Descripción del proyecto
 
