@@ -1,4 +1,4 @@
-package com.navegacionapp;
+package com.code1202.navegaapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
